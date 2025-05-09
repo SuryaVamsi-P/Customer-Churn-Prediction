@@ -60,12 +60,12 @@ This project empowers telecom providers to:
 ```bash
 📂 Customer-Churn-Prediction/
 │
-├── Group 10 Project.R                       # End-to-end R code
-├── Project Outputs.docx                     # EDA results and model evaluations
-├── Customer Churn Prediction (REPORT).docx  # Final project report
-├── DATS_6450_Project_GROUP-9_final.pptx     # Presentation slide deck
-├── GROUP - 10(Data Set).csv                 # Input dataset
-└── README.md                                # This file
+├── Group 10 Project.R                          # End-to-end R code
+├── Project Outputs.docx                        # EDA results and model evaluations
+├── Customer Churn Prediction (REPORT).docx     # Final project report
+├── Customer_Churn_Prediction.pptx              # Presentation slide deck
+├── Customer_Telecom_Data.csv                   # Input dataset
+└── README.md                                   # This file
 ```
 
 
